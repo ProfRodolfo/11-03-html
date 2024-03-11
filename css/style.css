@@ -7,3 +7,17 @@
     font-size: 80px;
 }
  */
+
+ 
+ body {
+    padding-bottom: 500px;
+   
+ }
+
+ /*  Classes */
+ .paragrah{
+    background-color: #000;
+    color: aqua;
+    padding: 5px;
+ }
+ 
